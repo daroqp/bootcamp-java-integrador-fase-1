@@ -1,0 +1,44 @@
+.start-0 {
+    left: 20% !important;
+    top: 10% !important;
+}
+
+@media (min-width: 768px) {
+    .start-0 {
+        left: 32% !important;
+        top: 15% !important;
+    }
+
+    .my-card {
+        width: 20rem !important;
+        font-size: 1.2rem !important;
+    }
+
+    .invisible {
+        visibility: visible !important;
+    }
+}
+
+
+@media (min-width: 992px) {
+    .start-0 {
+        left: 15% !important;
+    }
+
+    .invisible {
+        visibility: hidden !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .start-0 {
+        left: 24% !important;
+    }
+}
+
+
+@media (min-width: 1400px) {
+    .start-0 {
+        left: 30% !important;
+    }
+}
