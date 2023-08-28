@@ -1,3 +1,16 @@
+
+.nombreSpan {
+    color: red !important;
+}
+
+.emailSpan {
+    color: red !important;
+}
+
+.mensajeSpan {
+    color: red !important;
+}
+
 .icon-animation {
     animation-duration: 4s;
     animation-name: fadein;
